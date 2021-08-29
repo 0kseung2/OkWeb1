@@ -1,7 +1,0 @@
-<a href="hobbangman.html">호빵맨 캐릭터</a>
-
-<ol>
-	<li><a href="hobbang.html" target="_blank" title="호빵">호빵맨</a></li>
-	<li><a href="currybbang.html" target="_blank" title="식빵">카레빵맨</a></li>
-	<li><a href="bread.html" target="_blank" title="카레빵">식빵맨</a></li>
-</ol>
